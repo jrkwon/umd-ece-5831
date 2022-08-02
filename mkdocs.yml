@@ -1,11 +1,11 @@
 site_name: ECE 5831 at UM-D
 theme: readthedocs
 
-#markdown_extensions:
-#    - toc:
-#        permalink: "#"
-#        baselevel: 2
-#        separator: "_"
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        baselevel: 2
+        separator: "_"
 
 nav:
         - Home: index.md
