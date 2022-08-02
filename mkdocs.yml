@@ -3,6 +3,6 @@ theme: readthedocs
 
 nav:
         - Home: index.md
-        - 1. Environment Setup : 01.md
-        - 2. Perceptron: 02.md
+        - 1. Environment Setup : env-setup.md
+        - 2. Perceptron: perceptron.md
         - About: about.md
