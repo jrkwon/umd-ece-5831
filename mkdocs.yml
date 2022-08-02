@@ -1,8 +1,13 @@
 site_name: ECE 5831 at UM-D
 theme: readthedocs
 
+#markdown_extensions:
+#    - toc:
+#        permalink: "#"
+#        baselevel: 2
+#        separator: "_"
+
 nav:
         - Home: index.md
-        - 1. Environment Setup : env-setup.md
-        - 2. Perceptron: perceptron.md
-        - About: about.md
+        - 1. Environment Setup : env-setup/index.md
+        - 2. Perceptron: perceptron/index.md

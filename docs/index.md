@@ -4,7 +4,7 @@ This is for ECE-5831 Pattern Recognition and Neural Networks at the University o
 
 ## Schedule
 
-* Week 1: Environment Setup
-* Week 2: Perceptron
+* Week 1: [Environment Setup](env-setup/index.md)
+* Week 2: [Perceptron](perceptron/index.md)
 
 
