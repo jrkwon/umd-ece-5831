@@ -1,0 +1,8 @@
+site_name: ECE 5831 at UM-D
+theme: readthedocs
+
+nav:
+        - Home: index.md
+        - 1. Environment Setup : 01.md
+        - 2. Perceptron: 02.md
+        - About: about.md
