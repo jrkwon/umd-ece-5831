@@ -7,7 +7,12 @@ markdown_extensions:
         baselevel: 2
         separator: "_"
 
+#plugins:
+#    - with-pdf:
+#        author: Jaerock Kwon        
+
 nav:
         - Home: index.md
         - 1. Environment Setup : env-setup/index.md
+        - 1.1. Anaconda Installation: env-setup/install-anaconda.md
         - 2. Perceptron: perceptron/index.md
