@@ -7,9 +7,9 @@ markdown_extensions:
         baselevel: 2
         separator: "_"
 
-#plugins:
-#    - with-pdf:
-#        author: Jaerock Kwon        
+plugins:
+    - with-pdf:
+        author: Jaerock Kwon        
 
 nav:
         - Home: index.md
