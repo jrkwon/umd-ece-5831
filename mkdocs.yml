@@ -8,8 +8,10 @@ markdown_extensions:
         separator: "_"
 
 plugins:
-    - with-pdf:
-        author: Jaerock Kwon        
+    - pdf-export:
+        verbose: true
+        media_type: print
+        enabled_if_env: ENABLE_PDF_EXPORT   
 
 nav:
         - Home: index.md
